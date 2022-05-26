@@ -119,7 +119,7 @@ Crie um programa que permita ao usuário escolher a operação a realizar:
 - Saque;
 - Transferência;
 - Empréstimo;
-Em seguida solicite os dados para concretizar a operação e imprima o nome da operação feita e os dados referentes a ela. Exemplo: Depósito no Banco BOM, Agencia: 12-3, Conta 1234-5, Para Marcos Monteiro. Saldo inicial: R$ 1000,00, Depósito: R$500,00, Saldo final: R$ 1500,00. O programa deverá permitir ao usuário realizar quantas operações ele desejar, implemente a solução utilizando a estrutura enquanto.
+Em seguida solicite os dados para concretizar a operação e imprima o nome da operação feita e os dados referentes a ela. Exemplo: Depósito no Banco BOM, Agencia: 12-3, Conta 1234-5, Para Marcos Monteiro. Saldo inicial: 1000,00, Depósito: 500,00, Saldo final: 1500,00. O programa deverá permitir ao usuário realizar quantas operações ele desejar, implemente a solução utilizando a estrutura enquanto.
 
 [Exercício 19](./exercicios/exercicio-19.ALG)
 
@@ -142,7 +142,7 @@ Apresentar o total da soma obtida dos cem primeiros números inteiros.
 [Exercício 22](./exercicios/exercicio-22.ALG)
 
 # 23:
-Crie um programa inicie o saldo do cliente com R$ 1000,00 e que permita o saques consecutivos no valor de R$ 150.00 até que seu saldo seja positivo. Quando isto ocorrer interrompa a operação e informe que o saque não pode ser efetuado em razão de que o saldo era insuficiente para efetuar a operação
+Crie um programa inicie o saldo do cliente com 1000,00 e que permita o saques consecutivos no valor de 150.00 até que seu saldo seja positivo. Quando isto ocorrer interrompa a operação e informe que o saque não pode ser efetuado em razão de que o saldo era insuficiente para efetuar a operação
 
 [Exercício 23](./exercicios/exercicio-23.ALG)
 
